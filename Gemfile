@@ -8,6 +8,7 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'uglifier'
 gem 'bootsnap'
 gem 'faker'
+gem 'rails-controller-testing'
 gem 'sqlite3', '~>1.3.6'
 
 group :development, :test do
